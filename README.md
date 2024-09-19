@@ -23,7 +23,7 @@ Avail, Initia, Airchain, Namada, Pryzm, NuLink, Artela, Bevm, Mangata, Warden, H
 
 [Airchain](https://testnet.junction.explorers.guru/validator/airvaloper1wxv5y73r80pg9lguwhzvrp7qrzw88k9zqqx8q8)
 
-[Nillion](https://testnet.nillion.explorers.guru/validator/nillionvaloper1qkkxhslg9e235dydx6rl5kdlklpfe7tscskk7n)
+[Nillion](https://testnet.nillion.explorers.guru/validator/nillionvaloper139rxlwwr7dc2zd6lv46uh5mdmen58x5qt8jhq0)
 
 [Allora](https://testnet.allora.explorers.guru/validator/allovaloper1qvt3fpxnltcqaz3x5pg5t0e9e5gygv3pdstczt)
 
