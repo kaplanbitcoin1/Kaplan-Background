@@ -23,9 +23,9 @@ Avail, Initia, Airchain, Namada, Pryzm, NuLink, Artela, Bevm, Mangata, Warden, H
 
 [Airchain](https://testnet.junction.explorers.guru/validator/airvaloper1wxv5y73r80pg9lguwhzvrp7qrzw88k9zqqx8q8)
 
-[Nillion](https://testnet.nillion.explorers.guru/validator/nillionvaloper139rxlwwr7dc2zd6lv46uh5mdmen58x5qt8jhq0)
-
 [Allora](https://testnet.allora.explorers.guru/validator/allovaloper1qvt3fpxnltcqaz3x5pg5t0e9e5gygv3pdstczt)
+
+[Axone](https://explore.axone.xyz/Axone%20testnet/staking/axonevaloper1vnkqgwmqep304wqjc2f8j88dwaa5vk5yc5wndk)
 
 [Initia](https://scan.initia.tech/initiation-1/validators/initvaloper1s659a3eup2etjk9ugy874h2cnd3kpvpj4yzg9c)
 
@@ -40,6 +40,8 @@ Avail, Initia, Airchain, Namada, Pryzm, NuLink, Artela, Bevm, Mangata, Warden, H
 [0G](https://testnet.0g.explorers.guru/validator/0gvaloper1wnv285xdevgnry92msgcpdrjkv87st9pzlt3qa)
 
 [Warden](https://testnet.warden.explorers.guru/validator/wardenvaloper1f8ve8k6az4kv8jfhfhuwzgpuyxxpkh7nkdprzn)
+
+[Nillion](https://testnet.nillion.explorers.guru/validator/nillionvaloper139rxlwwr7dc2zd6lv46uh5mdmen58x5qt8jhq0)
 
 [Chainbase](https://holesky.eigenlayer.xyz/operator/0x2B6B967A90985190822EdbbBB1A371Ad28F48bc2)
 
