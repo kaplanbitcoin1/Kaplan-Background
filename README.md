@@ -37,6 +37,8 @@ Avail, Initia, Airchain, Namada, Pryzm, NuLink, Artela, Bevm, Mangata, Warden, H
 
 [Symphony](https://testnet.ping.pub/symphony/staking/symphonyvaloper1qvt3fpxnltcqaz3x5pg5t0e9e5gygv3psalsvg)
 
+[Zenrock](https://explorer.nodestake.org/zenrock-testnet/staking/zenvaloper1ws2np3lvjzwchymfnlcl9uu5juxr86hfcqjnav)
+
 [Gasp](https://holesky.eigenlayer.xyz/operator/0x2B6B967A90985190822EdbbBB1A371Ad28F48bc2)
 
 [0G](https://testnet.0g.explorers.guru/validator/0gvaloper1wnv285xdevgnry92msgcpdrjkv87st9pzlt3qa)
