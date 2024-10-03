@@ -21,9 +21,7 @@ Avail, Initia, Airchain, Namada, Pryzm, NuLink, Artela, Bevm, Mangata, Warden, H
 ## Projects in the active cluster on Testnet and a few other projects
 
 
-[Airchain](https://testnet.junction.explorers.guru/validator/airvaloper1wxv5y73r80pg9lguwhzvrp7qrzw88k9zqqx8q8)
-
-[DymensionRollApp](https://playground.dymension.xyz/rollapps/tigernode_10711-1/dashboard)
+[Airchain](https://testnet.junction.explorers.guru/validator/airvaloper1wxv5y73r80pg9lguwhzvrp7qrzw88k9zqqx8q8) , [DymensionRollApp](https://playground.dymension.xyz/rollapps/tigernode_10711-1/dashboard)
 
 [Allora](https://testnet.allora.explorers.guru/validator/allovaloper1qvt3fpxnltcqaz3x5pg5t0e9e5gygv3pdstczt)
 
