@@ -15,7 +15,7 @@ Additionally, I have helped various projects during critical testnet phases by m
 ## Projects where I participated in the node setup process
 
 
-Avail, Initia, Airchain, Namada, Pryzm, NuLink, Artela, Bevm, Mangata, Warden, Humanode, AO, Ari-o, AlignedLayer, Gasp, Nubit, Archain Rollup, Farcaster, Analog, Waku, Sonaric, Nubit, Allora, Flock, Nillion, Empe, Symphony, 0G, Chainbase, Story, Ora, Hemi, Vana, T3rn, Dymension RollApp, Zenrock.
+Avail, Initia, Airchain, Namada, Pryzm, NuLink, Artela, Bevm, Mangata, Warden, Humanode, AO, Ari-o, AlignedLayer, Gasp, Nubit, Archain Rollup, Farcaster, Analog, Waku, Sonaric, Nubit, Allora, Flock, Nillion, Empe, Symphony, 0G, Chainbase, Story, Ora, Hemi, Vana, T3rn, Union, Dymension RollApp, Zenrock.
 
 
 ## Projects in the active cluster on Testnet and a few other projects
@@ -32,6 +32,8 @@ Avail, Initia, Airchain, Namada, Pryzm, NuLink, Artela, Bevm, Mangata, Warden, H
 [Initia](https://scan.initia.tech/initiation-1/validators/initvaloper1s659a3eup2etjk9ugy874h2cnd3kpvpj4yzg9c)
 
 [Story](https://testnet.storyscan.app/validators/storyvaloper1pjfazvhc93m5s7jyx4md36nxxllmhedkt77wc7?tab=profile)
+
+[Union](https://testnet.union.explorers.guru/validator/unionvaloper1k6remej9s3x5rft3ergvcndzgcfh6h3n7q3rtt)
 
 [Empe](https://testnet.itrocket.net/empeiria/staking/empevaloper1zvf2kz4fqmmch8tzstwhjwe6jecytde25rxgxn)
 
