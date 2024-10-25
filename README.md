@@ -25,6 +25,8 @@ Avail, Initia, Airchain, Namada, Pryzm, NuLink, Artela, Bevm, Mangata, Warden, H
 
 [DymensionRollApp](https://playground.dymension.xyz/rollapps/tigernode_10711-1/dashboard)
 
+[Warden](https://testnet.warden.explorers.guru/validator/wardenvaloper16f4u7zdlvkr7lnxz3zrv2xxd3wa4j6d0ntusuk)
+
 [Allora](https://testnet.allora.explorers.guru/validator/allovaloper1qvt3fpxnltcqaz3x5pg5t0e9e5gygv3pdstczt)
 
 [Axone](https://explore.axone.xyz/Axone%20testnet/staking/axonevaloper1vnkqgwmqep304wqjc2f8j88dwaa5vk5yc5wndk)
@@ -44,8 +46,6 @@ Avail, Initia, Airchain, Namada, Pryzm, NuLink, Artela, Bevm, Mangata, Warden, H
 [Gasp](https://holesky.eigenlayer.xyz/operator/0x2B6B967A90985190822EdbbBB1A371Ad28F48bc2)
 
 [0G](https://testnet.0g.explorers.guru/validator/0gvaloper1wnv285xdevgnry92msgcpdrjkv87st9pzlt3qa)
-
-[Warden](https://testnet.warden.explorers.guru/validator/wardenvaloper1f8ve8k6az4kv8jfhfhuwzgpuyxxpkh7nkdprzn)
 
 [Nillion](https://testnet.nillion.explorers.guru/validator/nillionvaloper139rxlwwr7dc2zd6lv46uh5mdmen58x5qt8jhq0)
 
