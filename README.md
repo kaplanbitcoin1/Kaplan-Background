@@ -23,7 +23,7 @@ Avail, Initia, Airchain, Namada, Pryzm, NuLink, Artela, Bevm, Mangata, Warden, H
 
 [Airchain](https://testnet.airchains.io/validator/airvaloper1wxv5y73r80pg9lguwhzvrp7qrzw88k9zqqx8q8)
 
-[DymensionRollApp](https://playground.dymension.xyz/rollapps/tigernode_10711-1/dashboard)
+[DymensionRollApp](https://playground.dymension.xyz/rollapps/tigerkaplanode_10113-1/dashboard)
 
 [Warden](https://testnet.warden.explorers.guru/validator/wardenvaloper16f4u7zdlvkr7lnxz3zrv2xxd3wa4j6d0ntusuk)
 
