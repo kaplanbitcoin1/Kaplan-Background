@@ -1,6 +1,6 @@
 
 
-# Over the past two years, I have actively participated in the testnet and node setup stages of numerous blockchain projects. During this time, I have deployed nodes across various networks, ensuring that each node is configured to align with the decentralization and sustainability goals of the projects.
+* Over the past two years, I have actively participated in the testnet and node setup stages of numerous blockchain projects. During this time, I have deployed nodes across various networks, ensuring that each node is configured to align with the decentralization and sustainability goals of the projects.
 
 My experience spans working with diverse blockchain architectures and quickly adapting to various consensus mechanisms. I have deployed nodes for both permissioned and permissionless networks and contributed as a validator, enhancing the reliability and efficiency of these projects. For each project, I prioritized analyzing requirements and creating configurations that optimized performance while ensuring a sustainable infrastructure.
 
