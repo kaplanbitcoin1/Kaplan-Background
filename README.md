@@ -54,21 +54,15 @@ Avail, Story, Initia, Airchain, Namada, Pryzm, NuLink, Artela, Bevm, Mangata, Wa
 
 ## Node Installation and Maintenance
 
-I have deployed and maintained nodes across numerous blockchain ecosystems, ensuring they meet the highest standards of performance and reliability. Each node is configured to align with the specific needs of the project while supporting decentralization and security objectives. Through regular software updates and the application of security patches, I’ve safeguarded nodes from vulnerabilities and ensured compliance with the latest standards.
-
-Continuous monitoring has been a cornerstone of my approach. By analyzing uptime and performance metrics, I have proactively identified and resolved potential issues, preventing disruptions and enhancing network stability. My hands-on experience spans permissionless and permissioned networks, allowing me to adapt quickly to diverse blockchain architectures and consensus mechanisms.
+I have deployed and maintained nodes across numerous blockchain ecosystems, ensuring they meet the highest standards of performance and reliability. Each node is configured to align with the specific needs of the project while supporting decentralization and security objectives. Through regular software updates and the application of security patches, I’ve safeguarded nodes from vulnerabilities and ensured compliance with the latest standards. Continuous monitoring has been a cornerstone of my approach. By analyzing uptime and performance metrics, I have proactively identified and resolved potential issues, preventing disruptions and enhancing network stability. My hands-on experience spans permissionless and permissioned networks, allowing me to adapt quickly to diverse blockchain architectures and consensus mechanisms.
 
 ## Testnet Participation
 
-Testnets have provided me with an invaluable platform to contribute to blockchain development. By rigorously testing new features, upgrades, and protocols, I have helped refine networks before their mainnet deployment. I’ve worked closely with development teams to identify and resolve bugs, inefficiencies, and potential vulnerabilities, ensuring a seamless transition to production environments.
-
-Beyond technical contributions, I’ve delivered actionable feedback on network performance, scalability, and security. My involvement has not only improved the robustness of testnets but has also accelerated their readiness for real-world use cases.
+Testnets have provided me with an invaluable platform to contribute to blockchain development. By rigorously testing new features, upgrades, and protocols, I have helped refine networks before their mainnet deployment. I’ve worked closely with development teams to identify and resolve bugs, inefficiencies, and potential vulnerabilities, ensuring a seamless transition to production environments. Beyond technical contributions, I’ve delivered actionable feedback on network performance, scalability, and security. My involvement has not only improved the robustness of testnets but has also accelerated their readiness for real-world use cases.
 
 ## Community Engagement and Support
 
-Engaging with blockchain communities has been a fundamental part of my work. I actively participate in discussions surrounding governance proposals, network improvements, and best practices. These contributions help shape the direction of the projects I am involved with, fostering innovation and collaboration.
-
-I take pride in supporting other validators and community members by sharing technical expertise, troubleshooting guidance, and operational insights. This collaborative approach strengthens the ecosystem and empowers participants to contribute effectively to network growth.
+Engaging with blockchain communities has been a fundamental part of my work. I actively participate in discussions surrounding governance proposals, network improvements, and best practices. These contributions help shape the direction of the projects I am involved with, fostering innovation and collaboration. I take pride in supporting other validators and community members by sharing technical expertise, troubleshooting guidance, and operational insights. This collaborative approach strengthens the ecosystem and empowers participants to contribute effectively to network growth.
 
 ## Performance Optimization
 
@@ -84,6 +78,4 @@ Creating and sharing detailed documentation has been a consistent effort in my j
 
 ## Driving Innovation in Blockchain
 
-My commitment to blockchain extends beyond technical contributions. I continuously educate myself on the latest advancements in the field, staying informed about emerging technologies, standards, and protocols. This dedication enables me to adapt to the rapidly evolving landscape and ensure that my contributions remain relevant and impactful.
-
-By leveraging my diverse experience and unwavering dedication, I have strengthened the stability, security, and efficiency of the blockchain networks I’ve worked with. My role in these projects is more than technical; it’s about building systems that support decentralization, innovation, and the broader vision of blockchain technology.
+My commitment to blockchain extends beyond technical contributions. I continuously educate myself on the latest advancements in the field, staying informed about emerging technologies, standards, and protocols. This dedication enables me to adapt to the rapidly evolving landscape and ensure that my contributions remain relevant and impactful. By leveraging my diverse experience and unwavering dedication, I have strengthened the stability, security, and efficiency of the blockchain networks I’ve worked with. My role in these projects is more than technical; it’s about building systems that support decentralization, innovation, and the broader vision of blockchain technology.
