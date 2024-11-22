@@ -48,11 +48,11 @@ Avail, Story, Initia, Airchain, Namada, Pryzm, NuLink, Artela, Bevm, Mangata, Wa
 [Chainbase](https://holesky.eigenlayer.xyz/operator/0x2B6B967A90985190822EdbbBB1A371Ad28F48bc2)
 
 
-* For the last two years, I have been deeply involved in advancing blockchain networks, contributing to a diverse range of projects. My expertise covers several key domains, allowing me to tackle unique challenges and drive the success of each network.
+### For the last two years, I have been deeply involved in advancing blockchain networks, contributing to a diverse range of projects. My expertise covers several key domains, allowing me to tackle unique challenges and drive the success of each network.
 
 
 
-## Node Installation and Maintenance
+* Node Installation and Maintenance
 
 I have deployed and maintained nodes across numerous blockchain ecosystems, ensuring they meet the highest standards of performance and reliability. Each node is configured to align with the specific needs of the project while supporting decentralization and security objectives. Through regular software updates and the application of security patches, I’ve safeguarded nodes from vulnerabilities and ensured compliance with the latest standards. Continuous monitoring has been a cornerstone of my approach. By analyzing uptime and performance metrics, I have proactively identified and resolved potential issues, preventing disruptions and enhancing network stability. My hands-on experience spans permissionless and permissioned networks, allowing me to adapt quickly to diverse blockchain architectures and consensus mechanisms.
 
