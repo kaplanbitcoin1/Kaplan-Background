@@ -48,7 +48,7 @@ Avail, Story, Initia, Airchain, Namada, Pryzm, NuLink, Artela, Bevm, Mangata, Wa
 [Chainbase](https://holesky.eigenlayer.xyz/operator/0x2B6B967A90985190822EdbbBB1A371Ad28F48bc2)
 
 
-## Over the past two years, I have dedicated myself to advancing blockchain networks by contributing to a wide array of projects. My expertise spans multiple critical domains, enabling me to address the unique challenges of each network and foster their success.
+For the last two years, I have been deeply involved in advancing blockchain networks, contributing to a diverse range of projects. My expertise covers several key domains, allowing me to tackle unique challenges and drive the success of each network.
 
 
 
