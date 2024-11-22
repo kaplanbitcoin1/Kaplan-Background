@@ -1,15 +1,12 @@
 
 
-I have been involved in the testnet and node installation stages of dozens of blockchain projects for the past 2 years. During this time, I have set up nodes across multiple networks, ensuring that these nodes were configured optimally to support the development and decentralization of each project.
+Over the past two years, I have actively participated in the testnet and node setup stages of numerous blockchain projects. During this time, I have deployed nodes across various networks, ensuring that each node is configured to align with the decentralization and sustainability goals of the projects.
 
-My experience spans a wide range of consensus mechanisms and blockchain architectures, allowing me to adapt quickly to the unique requirements of each project. From permissionless blockchains to permissioned networks, I have worked with various node configurations, validators, and governance models.
+My experience spans working with diverse blockchain architectures and quickly adapting to various consensus mechanisms. I have deployed nodes for both permissioned and permissionless networks and contributed as a validator, enhancing the reliability and efficiency of these projects. For each project, I prioritized analyzing requirements and creating configurations that optimized performance while ensuring a sustainable infrastructure.
 
-In addition to installing and maintaining these nodes, I actively participate in community discussions, provide feedback to development teams, and assist with troubleshooting issues that arise during the testnet phases. My contributions ensure the reliability and security of the network, helping to identify potential issues before they become critical.
+Additionally, I have taken responsibility for the ongoing maintenance of the nodes I’ve set up, applying software updates and security patches. I played an active role in testnet phases by providing valuable feedback to the community and resolving encountered issues, supporting development teams throughout the process. Tasks like performance monitoring and early detection of potential risks have enabled me to contribute to the stability of the networks.
 
-I pride myself on staying up-to-date with the latest blockchain technologies and standards, continuously improving my technical skills to keep up with the rapidly evolving industry. Whether it’s ensuring node uptime, optimizing performance, or contributing to governance proposals, I am dedicated to supporting the success of the networks I am involved with.
-
-Additionally, I have helped various projects during critical testnet phases by monitoring performance, identifying bugs, and providing solutions to network challenges. This has given me a deep understanding of the importance of validator roles in maintaining network stability and security.
-
+To stay updated with the rapidly evolving nature of blockchain technology, I continuously track new standards and innovations, sharpening my technical skills. This extensive experience allows me to support the success of the networks I participate in and create value for their communities.
 
 
 ## Projects where I participated in the node setup process
