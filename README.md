@@ -11,7 +11,7 @@ To stay updated with the rapidly evolving nature of blockchain technology, I con
 ## Projects where I participated in the node setup process
 
 
-Avail, Story, Initia, Airchain, Namada, Pryzm, NuLink, Artela, Bevm, Mangata, Warden, Humanode, AO, Ari-o, AlignedLayer, Gasp, Nubit, Archain Rollup, Farcaster, Analog, Waku, Sonaric, Nubit, Allora, Flock, Nillion, Empe, Symphony, 0G, Chainbase, Ora, Hemi, Vana, T3rn, Union, Dymension RollApp, Zenrock, Fiamma. 
+Avail, Story, Initia, Airchain, Namada, Pryzm, NuLink, Artela, Bevm, Mangata, Warden, Humanode, AO, Ari-o, AlignedLayer, Gasp, Nubit, Archain Rollup, Farcaster, Analog, Waku, Sonaric, Nubit, Allora, Flock, Nillion, Empe, Symphony, 0G, Chainbase, Ora, Hemi, Vana, T3rn, Union, Dymension RollApp, Zenrock, Fiamma, Pell.
 
 
 ## Projects in the active cluster on Testnet and a few other projects
@@ -24,6 +24,8 @@ Avail, Story, Initia, Airchain, Namada, Pryzm, NuLink, Artela, Bevm, Mangata, Wa
 [DymensionRollApp](https://playground.dymension.xyz/rollapps/tigerkaplanode_963094-1/dashboard)
 
 [0G](https://testnet.0g.explorers.guru/validator/0gvaloper1wnv285xdevgnry92msgcpdrjkv87st9pzlt3qa)
+
+[Pell](https://testnet.pell.explorers.guru/validator/pellvaloper12n4fkkua2y08es0da7ef05jjeu9rjyg2dqpxqc)
 
 [Warden](https://testnet.warden.explorers.guru/validator/wardenvaloper16f4u7zdlvkr7lnxz3zrv2xxd3wa4j6d0ntusuk)
 
