@@ -21,11 +21,11 @@ Avail, Story, Initia, Airchain, Namada, Pryzm, NuLink, Artela, Bevm, Mangata, Wa
 
 [Story](https://testnet.storyscan.app/validators/storyvaloper1pjfazvhc93m5s7jyx4md36nxxllmhedkt77wc7?tab=profile)
 
+[0G](https://testnet.0g.explorers.guru/validator/0gvaloper1wnv285xdevgnry92msgcpdrjkv87st9pzlt3qa)
+
 [DymensionMainnet](https://dymension.explorers.guru/validator/dymvaloper1xrn4r5w54507ftjlhg45zy2u70v4c9aj4y7t9s)
 
 [DymensionRollApp](https://playground.dymension.xyz/rollapps/tigerkaplanode_963094-1/dashboard)
-
-[0G](https://testnet.0g.explorers.guru/validator/0gvaloper1wnv285xdevgnry92msgcpdrjkv87st9pzlt3qa)
 
 [Pell](https://testnet.pell.explorers.guru/validator/pellvaloper12n4fkkua2y08es0da7ef05jjeu9rjyg2dqpxqc)
 
