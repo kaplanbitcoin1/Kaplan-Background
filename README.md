@@ -11,7 +11,7 @@ To stay updated with the rapidly evolving nature of blockchain technology, I con
 ## Projects where I participated in the node setup process
 
 
-Avail, Story, Initia, Airchain, Namada, Pryzm, NuLink, Artela, Bevm, Mangata, Warden, Humanode, AO, Ari-o, AlignedLayer, Gasp, Nubit, Archain Rollup, Farcaster, Analog, Waku, Sonaric, Nubit, Allora, Flock, Nillion, Empe, Symphony, 0G, Chainbase, Ora, Hemi, Vana, T3rn, Union, Dymension RollApp, Zenrock, Fiamma, Aztec, Pell, Tellor.
+Avail, Story, Initia, Airchain, Namada, Pryzm, NuLink, Artela, Bevm, Mangata, Warden, Humanode, AO, Ari-o, AlignedLayer, Gasp, Nubit, Archain Rollup, Farcaster, Analog, Waku, Sonaric, Nubit, Allora, Flock, Nillion, Empe, Symphony, 0G, Chainbase, Ora, Hemi, Vana, T3rn, Union, Dymension RollApp, Zenrock, Fiamma, Aztec, Pell, Tellor, Gensyn, SelfChain.
 
 
 ## Projects in the active cluster on Testnet and a few other projects
