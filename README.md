@@ -17,7 +17,7 @@ Avail, Story, Initia, Airchain, Namada, Pryzm, NuLink, Artela, Bevm, Mangata, Wa
 ## Projects in the active cluster on Testnet and a few other projects
 
 
-[Airchain](https://testnet.airchains.io/validator/airvaloper1wxv5y73r80pg9lguwhzvrp7qrzw88k9zqqx8q8)
+[Airchain](https://testnet.junction.explorers.guru/validator/airvaloper1wxv5y73r80pg9lguwhzvrp7qrzw88k9zqqx8q8)
 
 [Story](https://testnet.storyscan.app/validators/storyvaloper1pjfazvhc93m5s7jyx4md36nxxllmhedkt77wc7?tab=profile)
 
