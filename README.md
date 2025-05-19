@@ -19,7 +19,7 @@ Avail, Story, Initia, Airchain, Namada, Pryzm, NuLink, Artela, Bevm, Mangata, Wa
 
 [Airchain](https://testnet.junction.explorers.guru/validator/airvaloper1wxv5y73r80pg9lguwhzvrp7qrzw88k9zqqx8q8)
 
-[Story](https://testnet.storyscan.app/validators/storyvaloper1pjfazvhc93m5s7jyx4md36nxxllmhedkt77wc7?tab=profile)
+[Story](https://aeneid.storyscan.app/validators/storyvaloper1xpdff3p4p6t6eetxejh7duz9ten9estwndnmpg)
 
 [0G](https://testnet.0g.explorers.guru/validator/0gvaloper1wnv285xdevgnry92msgcpdrjkv87st9pzlt3qa)
 
